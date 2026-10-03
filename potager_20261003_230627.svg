@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="7880" height="5030" viewBox="0 0 7880 5030">
+  <rect width="7880" height="5030" fill="white"/>
+  <defs>
+    <clipPath id="cp0"><rect x="6042.0" y="3392.0" width="396.0" height="396.0" rx="10"/></clipPath>
+    <clipPath id="cp1"><rect x="4842.0" y="2992.0" width="396.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp2"><rect x="4842.0" y="2792.0" width="396.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp3"><rect x="5242.0" y="2792.0" width="396.0" height="296.0" rx="10"/></clipPath>
+    <clipPath id="cp4"><rect x="7342.0" y="2942.0" width="396.0" height="396.0" rx="10"/></clipPath>
+    <clipPath id="cp5"><rect x="6442.0" y="3292.0" width="96.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp6"><rect x="7442.0" y="3342.0" width="396.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp7"><rect x="4292.0" y="2942.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp8"><rect x="4292.0" y="3142.0" width="196.0" height="96.0" rx="10"/></clipPath>
+    <clipPath id="cp9"><rect x="4292.0" y="3242.0" width="96.0" height="96.0" rx="10"/></clipPath>
+    <clipPath id="cp10"><rect x="5242.0" y="3092.0" width="396.0" height="96.0" rx="10"/></clipPath>
+    <clipPath id="cp11"><rect x="6792.0" y="3392.0" width="196.0" height="396.0" rx="10"/></clipPath>
+    <clipPath id="cp12"><rect x="7242.0" y="3242.0" width="196.0" height="396.0" rx="10"/></clipPath>
+    <clipPath id="cp13"><rect x="6042.0" y="3292.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp14"><rect x="6242.0" y="3292.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp15"><rect x="6242.0" y="3092.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp16"><rect x="6042.0" y="2792.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp17"><rect x="6242.0" y="2692.0" width="196.0" height="96.0" rx="10"/></clipPath>
+    <clipPath id="cp18"><rect x="42.0" y="42.0" width="296.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp19"><rect x="4292.0" y="3342.0" width="396.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp20"><rect x="4842.0" y="3592.0" width="196.0" height="96.0" rx="10"/></clipPath>
+    <clipPath id="cp21"><rect x="4842.0" y="3492.0" width="96.0" height="96.0" rx="10"/></clipPath>
+    <clipPath id="cp22"><rect x="4942.0" y="3492.0" width="96.0" height="96.0" rx="10"/></clipPath>
+    <clipPath id="cp23"><rect x="5642.0" y="2792.0" width="196.0" height="396.0" rx="10"/></clipPath>
+    <clipPath id="cp24"><rect x="4492.0" y="2842.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp25"><rect x="4492.0" y="3042.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp26"><rect x="6992.0" y="3092.0" width="96.0" height="96.0" rx="10"/></clipPath>
+    <clipPath id="cp27"><rect x="4742.0" y="4792.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp28"><rect x="5792.0" y="4742.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp29"><rect x="5292.0" y="4242.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp30"><rect x="6192.0" y="3992.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp31"><rect x="6192.0" y="3992.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp32"><rect x="6192.0" y="3992.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp33"><rect x="6192.0" y="3992.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp34"><rect x="4242.0" y="2492.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp35"><rect x="4242.0" y="2492.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp36"><rect x="4242.0" y="2492.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp37"><rect x="4242.0" y="2492.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp38"><rect x="4242.0" y="2492.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp39"><rect x="4242.0" y="2492.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp40"><rect x="4242.0" y="2492.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp41"><rect x="4242.0" y="2492.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp42"><rect x="4242.0" y="2492.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp43"><rect x="4242.0" y="2492.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp44"><rect x="4842.0" y="2592.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp45"><rect x="4992.0" y="2142.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp46"><rect x="4992.0" y="2142.0" width="196.0" height="196.0" rx="10"/></clipPath>
+    <clipPath id="cp47"><rect x="4992.0" y="2142.0" width="196.0" height="196.0" rx="10"/></clipPath>
+  </defs>
+  <rect x="6040.0" y="3390.0" width="400.0" height="400.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp0)">
+    <text x="6240.0" y="3590.0" font-size="50" text-anchor="middle">🥬</text>
+    <text x="6240.0" y="3635.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Salade</text>
+  </g>
+  <text x="6404.0" y="3426.0" font-size="36">💧</text>
+  <text x="6044.0" y="3780.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 28/03</text>
+  <text x="6436.0" y="3780.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 31/03</text>
+  <rect x="4840.0" y="2990.0" width="400.0" height="200.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp1)">
+    <text x="5040.0" y="3090.0" font-size="50" text-anchor="middle">🧄</text>
+    <text x="5040.0" y="3135.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Ail</text>
+  </g>
+  <text x="5204.0" y="3026.0" font-size="36">💧</text>
+  <text x="4844.0" y="3180.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 26/03</text>
+  <text x="5236.0" y="3180.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 02/04</text>
+  <rect x="4840.0" y="2790.0" width="400.0" height="200.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp2)">
+    <text x="5040.0" y="2890.0" font-size="50" text-anchor="middle">🧅</text>
+    <text x="5040.0" y="2935.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Oignon</text>
+  </g>
+  <text x="5204.0" y="2826.0" font-size="36">💧</text>
+  <text x="4844.0" y="2980.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 26/03</text>
+  <text x="5236.0" y="2980.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 02/04</text>
+  <rect x="5240.0" y="2790.0" width="400.0" height="300.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp3)">
+    <text x="5440.0" y="2932.0" font-size="50" text-anchor="middle">🫘</text>
+    <text x="5440.0" y="2977.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Fève</text>
+    <text x="5440.0" y="2998.0" font-size="17" text-anchor="middle" fill="white" fill-opacity="0.8" font-family="sans-serif">De Séville à longues gousses</text>
+  </g>
+  <text x="5604.0" y="2826.0" font-size="36">💧</text>
+  <text x="5244.0" y="3080.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 26/03</text>
+  <text x="5636.0" y="3080.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 31/03</text>
+  <rect x="7340.0" y="2940.0" width="400.0" height="400.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp4)">
+    <text x="7540.0" y="3140.0" font-size="50" text-anchor="middle">🥬</text>
+    <text x="7540.0" y="3185.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Salade</text>
+  </g>
+  <text x="7704.0" y="2976.0" font-size="36">💧</text>
+  <text x="7344.0" y="3330.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 28/03</text>
+  <text x="7736.0" y="3330.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 31/03</text>
+  <rect x="6440.0" y="3290.0" width="100.0" height="200.0" rx="12" ry="12" fill="#F5C6AA" stroke="#C0392B" stroke-width="2"/>
+  <g clip-path="url(#cp5)">
+    <text x="6490.0" y="3390.0" font-size="50" text-anchor="middle">🍓</text>
+    <text x="6490.0" y="3435.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Fraise</text>
+  </g>
+  <rect x="7440.0" y="3340.0" width="400.0" height="200.0" rx="12" ry="12" fill="#C8E6C9" stroke="#27AE60" stroke-width="2"/>
+  <g clip-path="url(#cp6)">
+    <text x="7640.0" y="3440.0" font-size="50" text-anchor="middle">🌿</text>
+    <text x="7640.0" y="3485.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Menthe</text>
+  </g>
+  <text x="7804.0" y="3376.0" font-size="36">💧</text>
+  <text x="7444.0" y="3530.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 26/03</text>
+  <text x="7836.0" y="3530.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 29/03</text>
+  <rect x="4290.0" y="2940.0" width="200.0" height="200.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp7)">
+    <text x="4390.0" y="3032.0" font-size="50" text-anchor="middle">🍅</text>
+    <text x="4390.0" y="3077.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Tomate</text>
+    <text x="4390.0" y="3098.0" font-size="17" text-anchor="middle" fill="white" fill-opacity="0.8" font-family="sans-serif">Cerise</text>
+  </g>
+  <text x="4454.0" y="2976.0" font-size="36">💧</text>
+  <text x="4294.0" y="3130.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 28/03</text>
+  <text x="4486.0" y="3130.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 30/03</text>
+  <rect x="4290.0" y="3140.0" width="200.0" height="100.0" rx="12" ry="12" fill="#C8E6C9" stroke="#27AE60" stroke-width="2"/>
+  <g clip-path="url(#cp8)">
+    <text x="4390.0" y="3182.0" font-size="50" text-anchor="middle">🌱</text>
+    <text x="4390.0" y="3227.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Persil</text>
+    <text x="4390.0" y="3248.0" font-size="17" text-anchor="middle" fill="white" fill-opacity="0.8" font-family="sans-serif">geant</text>
+  </g>
+  <text x="4454.0" y="3176.0" font-size="36">💧</text>
+  <text x="4294.0" y="3230.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 28/03</text>
+  <text x="4486.0" y="3230.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 02/04</text>
+  <rect x="4290.0" y="3240.0" width="100.0" height="100.0" rx="12" ry="12" fill="#C8E6C9" stroke="#27AE60" stroke-width="2"/>
+  <g clip-path="url(#cp9)">
+    <text x="4340.0" y="3290.0" font-size="50" text-anchor="middle">🌱</text>
+    <text x="4340.0" y="3335.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Cibo…</text>
+  </g>
+  <text x="4354.0" y="3276.0" font-size="36">💧</text>
+  <rect x="5240.0" y="3090.0" width="400.0" height="100.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp10)">
+    <text x="5440.0" y="3140.0" font-size="50" text-anchor="middle">🥦</text>
+    <text x="5440.0" y="3185.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Chou de Bruxelles</text>
+  </g>
+  <text x="5604.0" y="3126.0" font-size="36">💧</text>
+  <text x="5244.0" y="3180.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 26/03</text>
+  <text x="5636.0" y="3180.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 29/03</text>
+  <rect x="6790.0" y="3390.0" width="200.0" height="400.0" rx="12" ry="12" fill="#F5C6AA" stroke="#C0392B" stroke-width="2"/>
+  <g clip-path="url(#cp11)">
+    <text x="6890.0" y="3590.0" font-size="50" text-anchor="middle">🍓</text>
+    <text x="6890.0" y="3635.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Fraise</text>
+  </g>
+  <text x="6954.0" y="3426.0" font-size="36">💧</text>
+  <text x="6794.0" y="3780.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 26/03</text>
+  <text x="6986.0" y="3780.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 29/03</text>
+  <rect x="7240.0" y="3240.0" width="200.0" height="400.0" rx="12" ry="12" fill="#F5C6AA" stroke="#C0392B" stroke-width="2"/>
+  <g clip-path="url(#cp12)">
+    <text x="7340.0" y="3440.0" font-size="50" text-anchor="middle">🍓</text>
+    <text x="7340.0" y="3485.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Fraise</text>
+  </g>
+  <text x="7404.0" y="3276.0" font-size="36">💧</text>
+  <text x="7244.0" y="3630.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 26/03</text>
+  <text x="7436.0" y="3630.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 29/03</text>
+  <rect x="6040.0" y="3290.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="6240.0" y="3290.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="6240.0" y="3090.0" width="200.0" height="200.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp15)">
+    <text x="6340.0" y="3190.0" font-size="50" text-anchor="middle">🫑</text>
+    <text x="6340.0" y="3235.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Poivron</text>
+  </g>
+  <text x="6404.0" y="3126.0" font-size="36">💧</text>
+  <text x="6244.0" y="3280.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 28/03</text>
+  <text x="6436.0" y="3280.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 31/03</text>
+  <rect x="6040.0" y="2790.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="6240.0" y="2690.0" width="200.0" height="100.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="40.0" y="40.0" width="300.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4290.0" y="3340.0" width="400.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4840.0" y="3590.0" width="200.0" height="100.0" rx="12" ry="12" fill="#C8E6C9" stroke="#27AE60" stroke-width="2"/>
+  <g clip-path="url(#cp20)">
+    <text x="4940.0" y="3640.0" font-size="50" text-anchor="middle">🌿</text>
+    <text x="4940.0" y="3685.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Romarin</text>
+  </g>
+  <text x="5004.0" y="3626.0" font-size="36">💧</text>
+  <text x="4844.0" y="3680.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 26/03</text>
+  <text x="5036.0" y="3680.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 02/04</text>
+  <rect x="4840.0" y="3490.0" width="100.0" height="100.0" rx="12" ry="12" fill="#C8E6C9" stroke="#27AE60" stroke-width="2"/>
+  <g clip-path="url(#cp21)">
+    <text x="4890.0" y="3540.0" font-size="50" text-anchor="middle">🌿</text>
+    <text x="4890.0" y="3585.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Thym</text>
+  </g>
+  <text x="4904.0" y="3526.0" font-size="36">💧</text>
+  <rect x="4940.0" y="3490.0" width="100.0" height="100.0" rx="12" ry="12" fill="#C8E6C9" stroke="#27AE60" stroke-width="2"/>
+  <g clip-path="url(#cp22)">
+    <text x="4990.0" y="3540.0" font-size="50" text-anchor="middle">🌿</text>
+    <text x="4990.0" y="3585.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Thym</text>
+  </g>
+  <text x="5004.0" y="3526.0" font-size="36">💧</text>
+  <rect x="5640.0" y="2790.0" width="200.0" height="400.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4490.0" y="2840.0" width="200.0" height="200.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp24)">
+    <text x="4590.0" y="2932.0" font-size="50" text-anchor="middle">🥔</text>
+    <text x="4590.0" y="2977.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Pomme de t…</text>
+    <text x="4590.0" y="2998.0" font-size="17" text-anchor="middle" fill="white" fill-opacity="0.8" font-family="sans-serif">Binge</text>
+  </g>
+  <text x="4654.0" y="2876.0" font-size="36">💧</text>
+  <text x="4494.0" y="3030.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 28/03</text>
+  <text x="4686.0" y="3030.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 02/04</text>
+  <rect x="4490.0" y="3040.0" width="200.0" height="200.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp25)">
+    <text x="4590.0" y="3140.0" font-size="50" text-anchor="middle">🥔</text>
+    <text x="4590.0" y="3185.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Pomme de t…</text>
+  </g>
+  <text x="4654.0" y="3076.0" font-size="36">💧</text>
+  <text x="4494.0" y="3230.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ 28/03</text>
+  <text x="4686.0" y="3230.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 02/04</text>
+  <rect x="6990.0" y="3090.0" width="100.0" height="100.0" rx="12" ry="12" fill="#C8E6C9" stroke="#27AE60" stroke-width="2"/>
+  <g clip-path="url(#cp26)">
+    <text x="7040.0" y="3140.0" font-size="50" text-anchor="middle">🌱</text>
+    <text x="7040.0" y="3185.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Cibo…</text>
+  </g>
+  <text x="7054.0" y="3126.0" font-size="36">💧</text>
+  <rect x="4740.0" y="4790.0" width="200.0" height="200.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp27)">
+    <text x="4840.0" y="4890.0" font-size="50" text-anchor="middle">🌿</text>
+    <text x="4840.0" y="4935.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Pourpier</text>
+  </g>
+  <text x="4904.0" y="4826.0" font-size="36">💧</text>
+  <text x="4744.0" y="4980.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ —</text>
+  <text x="4936.0" y="4980.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 03/10</text>
+  <rect x="5790.0" y="4740.0" width="200.0" height="200.0" rx="12" ry="12" fill="#A8D5A2" stroke="#4A7C59" stroke-width="2"/>
+  <g clip-path="url(#cp28)">
+    <text x="5890.0" y="4840.0" font-size="50" text-anchor="middle">🌿</text>
+    <text x="5890.0" y="4885.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Pourpier</text>
+  </g>
+  <text x="5954.0" y="4776.0" font-size="36">💧</text>
+  <text x="5794.0" y="4930.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ —</text>
+  <text x="5986.0" y="4930.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 03/10</text>
+  <rect x="5290.0" y="4240.0" width="200.0" height="200.0" rx="12" ry="12" fill="#F5C6AA" stroke="#C0392B" stroke-width="2"/>
+  <g clip-path="url(#cp29)">
+    <text x="5390.0" y="4340.0" font-size="50" text-anchor="middle">🍍</text>
+    <text x="5390.0" y="4385.0" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">Ananas</text>
+  </g>
+  <text x="5454.0" y="4276.0" font-size="36">💧</text>
+  <text x="5294.0" y="4430.0" font-size="20" text-anchor="start" fill="#9E9E9E" font-family="sans-serif">↺ —</text>
+  <text x="5486.0" y="4430.0" font-size="20" text-anchor="end" fill="#F44336" font-family="sans-serif">→ 03/10</text>
+  <rect x="6190.0" y="3990.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="6190.0" y="3990.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="6190.0" y="3990.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="6190.0" y="3990.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4240.0" y="2490.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4240.0" y="2490.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4240.0" y="2490.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4240.0" y="2490.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4240.0" y="2490.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4240.0" y="2490.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4240.0" y="2490.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4240.0" y="2490.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4240.0" y="2490.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4240.0" y="2490.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4840.0" y="2590.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4990.0" y="2140.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4990.0" y="2140.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="4990.0" y="2140.0" width="200.0" height="200.0" rx="12" ry="12" fill="#D7CCC8" stroke="#8D6E63" stroke-width="2"/>
+  <rect x="3" y="3" width="7874" height="5024" fill="none" stroke="#5D4037" stroke-width="6" rx="4"/>
+  <text x="8" y="5026" font-size="11" fill="#9E9E9E" font-family="sans-serif">Mon Potager — Plan du potager — Généré le 03/10/2026</text>
+</svg>
